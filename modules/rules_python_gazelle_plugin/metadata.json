@@ -16,7 +16,8 @@
     ],
     "repository": [
         "github:bazelbuild/rules_python",
-        "github:bazel-contrib/rules_python"
+        "github:bazel-contrib/rules_python",
+        "github:rickeylev/rules_python"
     ],
     "versions": [
         "0.21.0",
