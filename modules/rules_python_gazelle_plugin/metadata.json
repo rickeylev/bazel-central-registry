@@ -2,16 +2,16 @@
     "homepage": "https://github.com/bazel-contrib/rules_python",
     "maintainers": [
         {
-            "name": "Richard Levasseur",
             "email": "richardlev@gmail.com",
             "github": "rickeylev",
-            "github_user_id": 34175098
+            "github_user_id": 34175098,
+            "name": "Richard Levasseur"
         },
         {
-            "name": "Ignas Anikevicius",
             "email": "bcr-ignas@use.startmail.com",
             "github": "aignas",
-            "github_user_id": 240938
+            "github_user_id": 240938,
+            "name": "Ignas Anikevicius"
         }
     ],
     "repository": [
