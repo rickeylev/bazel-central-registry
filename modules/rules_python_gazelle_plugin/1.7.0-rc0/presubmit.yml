@@ -23,8 +23,8 @@ bcr_test_module:
       name: "Run test module"
       platform: ${{ platform }}
       bazel: ${{ bazel }}
-      build_flags:
-        - "--module_override=rules_python="
+      #build_flags:
+      #  - "--module_override=rules_python="
       build_targets:
         - "//..."
         - ":modules_map"
