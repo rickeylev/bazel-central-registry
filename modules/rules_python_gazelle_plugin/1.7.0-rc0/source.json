@@ -3,7 +3,7 @@
     "strip_prefix": "rules_python-1.7.0-rc0/gazelle",
     "url": "https://github.com/rickeylev/rules_python/releases/download/test-release/rules_python-1.7.0-rc0.t1.tar.gz",
     "patches": {
-        "module_dot_bazel_version.patch": "sha256-loZtr5tfPFSDlliP9bhZ8nBpI19Bw4MQVXnRUs7KZgg="
+        "module_dot_bazel_version.patch": "sha256-HH1NV3MvqqHJh9IW6bjs1MiAva/9sfUVoYnopNcNI/g="
     },
     "patch_strip": 1
 }
