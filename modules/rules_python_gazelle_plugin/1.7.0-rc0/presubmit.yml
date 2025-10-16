@@ -13,7 +13,8 @@
 # limitations under the License.
 
 bcr_test_module:
-  module_path: "../examples/bzlmod_build_file_generation"
+  # noop
+  module_path: "examples/bzlmod_build_file_generation"
   matrix:
     platform: ["debian11", "macos", "ubuntu2004", "windows"]
     # last_rc is to get latest 8.x release. Replace with 8.x when available.
