@@ -1,7 +1,7 @@
 {
-    "integrity": "sha256-X4bBq3CmXCUsYR+o/tytg8bUkbn/3lxxwJokxbHSwdU=",
+    "integrity": "sha256-riZrAFYuZFpoADF46psSUvznFz/rxZwfUcexvoBnpt4=",
     "strip_prefix": "rules_python-1.7.0-rc0/gazelle",
-    "url": "https://github.com/rickeylev/rules_python/releases/download/test-release/rules_python-1.7.0-rc0.t1.tar.gz",
+    "url": "https://github.com/rickeylev/rules_python/releases/download/test-release/rules_python-1.7.0-rc0.tar.gz",
     "patches": {
         "module_dot_bazel_version.patch": "sha256-biBYiHULq2/nGVGprkFCMe528xRySvlfw8vjm3g05kc="
     },
